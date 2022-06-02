@@ -1,4 +1,4 @@
-# html_alura
+#index_html
 
 <h1>Sobre a Barbearia Alura</h1>
 
