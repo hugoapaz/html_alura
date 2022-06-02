@@ -4,7 +4,7 @@
 <html lang="pt-br">
     <head>
         <meta charset="UTF-8">
-        <h1>Barbearia Alura</h1>
+        <h2>Barbearia Alura</h2>
     </head>
     <body>
         <h1>Sobre a Barbearia Alura</h1>
